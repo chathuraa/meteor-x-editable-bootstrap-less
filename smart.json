@@ -1,11 +1,12 @@
 {
-	"name": "x-editable-bootstrap",
-	"description": "Latest version of X-editable for bootstrap w/ wysithtml packaged for meteor",
-	"homepage": "https://github.com/nate-strauser/meteor-x-editable-bootstrap",
-	"author": "Nate Strauser",
+	"name": "x-editable-bootstrap3-less",
+	"description": "Latest version of X-editable for bootstrap 3 LESS w/ wysithtml packaged for meteor",
+	"homepage": "https://github.com/chathuraa/meteor-x-editable-bootstrap-less.git",
+	"author": "Chathura Ambegoda",
 	"version": "1.5.1",
-	"git": "https://github.com/nate-strauser/meteor-x-editable-bootstrap.git",
+	"git": "https://github.com/chathuraa/meteor-x-editable-bootstrap-less.git",
   "packages": {
     "bootstrap-3less": {}
   }
 }
+
