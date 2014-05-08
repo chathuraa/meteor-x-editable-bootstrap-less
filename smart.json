@@ -6,7 +6,7 @@
 	"version": "1.5.1",
 	"git": "https://github.com/chathuraa/meteor-x-editable-bootstrap-less.git",
   "packages": {
-    "bootstrap-3less": {}
+    "bootstrap3-less": {}
   }
 }
 
