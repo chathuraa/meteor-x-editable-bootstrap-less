@@ -7,7 +7,7 @@ repackaged for Meteor.
 # Install
 
 ```
-mrt add x-editable-bootstrap
+mrt add x-editable-bootstrap-less
 ```
 
 **NOTE**: The latest branch uses the Bootstrap 3 build of x-editable. If you are still using Bootstrap 2, install v1.4.6.3 instead of the latest.
