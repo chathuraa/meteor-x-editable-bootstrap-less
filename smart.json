@@ -3,7 +3,7 @@
 	"description": "Latest version of X-editable for bootstrap 3 LESS w/ wysithtml packaged for meteor",
 	"homepage": "https://github.com/chathuraa/meteor-x-editable-bootstrap-less.git",
 	"author": "Chathura Ambegoda",
-	"version": "1.5.2.1",
+	"version": "1.5.3",
 	"git": "https://github.com/chathuraa/meteor-x-editable-bootstrap-less.git",
   "packages": {
     "bootstrap3-less": {}
